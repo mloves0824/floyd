@@ -1,3 +1,5 @@
+package client;
+
 enum Type {
   WRITE = 1;
   READ = 2;

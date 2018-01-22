@@ -28,6 +28,11 @@
 *.app
 gmon.out
 
+#third
+pink
+slash
+rocksdb
+
 # Examples
 floyd/example/kv/sdk.pb.cc
 floyd/example/kv/sdk.pb.h
@@ -40,3 +45,11 @@ floyd/example/kv/sdk.pb.h
 
 floyd/src/build_version.cc
 floyd/example/redis/deploy.sh
+
+floyd.sln
+floyd.v12.suo
+floyd.vcxproj
+floyd.vcxproj.filters
+floyd.vcxproj.user
+~AutoRecover.floyd.vcxproj
+
